@@ -1,6 +1,5 @@
 # labs
 
-| First Header  | Second Header | 
-| ------------- | ------------- | 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| order  | lab| date finished |
+| ---- | ---- | ---- |
+| 1  | Quickstart  | 1/13/2023 |
