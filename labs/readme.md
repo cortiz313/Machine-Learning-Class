@@ -1,4 +1,4 @@
-# labs
+# Labs
 
 | order  | lab| date finished |
 | ---- | ---- | ---- |
