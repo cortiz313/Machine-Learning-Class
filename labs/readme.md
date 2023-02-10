@@ -6,3 +6,4 @@
 | 2  | numPy Lab  | 1/23/2023 |
 | 3  | Pandas Lab  | 1/28/2023 |
 | 4  | skLearn Lab  | 2/8/2023 |
+| 5  | Decision Tree Lab  | 2/10/2023 |
