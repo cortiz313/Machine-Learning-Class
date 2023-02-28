@@ -10,4 +10,4 @@
 | 6  | Working with Data Lab  | 2/10/2023 |
 | 7  | Regression Lab  | 2/22/2023 |
 | 8  | Clustering Lab  | 2/27/2023 |
-
+| 9  | Bagging and Pasting Lab  | 2/28/2023 |
