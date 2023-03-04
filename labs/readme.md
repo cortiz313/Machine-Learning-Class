@@ -11,3 +11,4 @@
 | 7  | Regression Lab  | 2/22/2023 |
 | 8  | Clustering Lab  | 2/27/2023 |
 | 9  | Bagging and Pasting Lab  | 2/28/2023 |
+| 10  | XGBoost Lab  | 3/3/2023 |
