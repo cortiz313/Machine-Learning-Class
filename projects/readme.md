@@ -1,3 +1,5 @@
 # Projects
 
-Projects will be held here
+| order  | lab| date finished |
+| ---- | ---- | ---- |
+| 1  | Bach Project  | 3/7/2023 |
