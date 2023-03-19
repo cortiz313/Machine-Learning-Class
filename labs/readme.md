@@ -12,4 +12,5 @@
 | 8  | Clustering Lab  | 2/27/2023 |
 | 9  | Bagging and Pasting Lab  | 2/28/2023 |
 | 10  | XGBoost Lab  | 3/3/2023 |
-| 10  | A First Look At Deep Learning Lab  | 3/7/2023 |
+| 11  | A First Look At Deep Learning Lab  | 3/7/2023 |
+| 12  | Convolutional Neural Networks Lab  | 3/19/2023 |
